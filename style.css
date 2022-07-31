@@ -5,3 +5,8 @@
 body {
     background-color: blue;
 }
+
+h1 {
+    font-size: 14;
+    color: bisque;
+}
