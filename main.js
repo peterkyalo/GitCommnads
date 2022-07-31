@@ -1,2 +1,2 @@
-var str = 'Hello';
-alert(str.toUpperCase);
+var str = 'Welcome To Git & GitHub...';
+alert(str.toUpperCase());
