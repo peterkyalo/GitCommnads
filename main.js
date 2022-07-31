@@ -1,1 +1,2 @@
-console.log('Main JS');
+var str = 'Hello';
+alert(str.toUpperCase);
